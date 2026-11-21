@@ -7,6 +7,21 @@ description: Quantitative investing, algorithmic trading, and automation. Covers
 
 Quantitative investing, algorithmic trading, and automation — for both channel operations (content planning, scripts, SEO, analytics) and trading assistance (strategy development, backtesting, risk management, code templates).
 
+## Scope & Routing
+
+This skill has **two distinct sections**. Determine which applies before proceeding:
+
+| If the user asks about... | Go to Section |
+|---|---|
+| Content planning, scripts, SEO, video structure, channel analytics, publishing | → **Section A: Channel Operations** |
+| Strategy development, backtesting, risk management, position sizing, code templates | → **Section B: Trading Assistance** |
+
+Do not mix concerns. If a request spans both (e.g., "make a video about backtesting"), handle the trading part first, then the channel part.
+
+---
+
+## Section A: Channel Operations
+
 ## Domain Knowledge
 
 ### Content Pillars (YouTube Channel)
@@ -33,8 +48,6 @@ Quantitative investing, algorithmic trading, and automation — for both channel
 - **Pine Script**: TradingView strategies
 - **QuantConnect/LEAN**: multi-asset algo platform
 - **Blender**: 3D visualization for channel content (pairs with blender-* skills)
-
-## Channel Operations
 
 ### Content Calendar (Weekly 1 Video, ~10 min)
 
@@ -85,7 +98,7 @@ Quantitative investing, algorithmic trading, and automation — for both channel
 - **Chinese market**: very few Chinese quant channels, first-mover advantage
 - **Honest results**: show real slippage/fees/overfitting, don't sugarcoat
 
-## Trading Assistance
+## Section B: Trading Assistance
 
 ### Strategy Development Checklist
 1. Define hypothesis (what edge, why does it exist)
