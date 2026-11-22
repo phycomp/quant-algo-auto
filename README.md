@@ -31,4 +31,3 @@ Trigger phrases: "quant trading", "algo trading", "backtesting", "strategy devel
 ## License
 
 MIT
-EOF
